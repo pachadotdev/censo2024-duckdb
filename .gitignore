@@ -1,5 +1,8 @@
 *.duckdb
 *.parquet
 *.zip
+*.z01
+*.z02
+*.z03
 *.xlsx
 *.pdf
